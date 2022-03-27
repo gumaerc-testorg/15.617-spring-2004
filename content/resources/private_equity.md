@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e6c49e2a-dea2-6a4e-10ff-76e36b8401ed
 resourcetype: Document
 title: private_equity.pdf
 uid: 3241a722-9b55-c988-7296-7a53f2f66aa4

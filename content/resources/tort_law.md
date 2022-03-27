@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e6c49e2a-dea2-6a4e-10ff-76e36b8401ed
 resourcetype: Document
 title: tort_law.pdf
 uid: 5ebc27e6-4a6c-2f4b-0593-74edf8071be1

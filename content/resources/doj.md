@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e6c49e2a-dea2-6a4e-10ff-76e36b8401ed
 resourcetype: Document
 title: doj.pdf
 uid: 9fd504b0-694e-3658-b8f1-2f92d977ccc5

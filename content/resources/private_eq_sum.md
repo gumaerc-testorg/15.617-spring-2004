@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e6c49e2a-dea2-6a4e-10ff-76e36b8401ed
 resourcetype: Document
 title: private_eq_sum.pdf
 uid: 50943c06-6ded-58bf-3bae-91e312897f18
