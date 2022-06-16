@@ -2,7 +2,7 @@
 content_type: resource
 description: Full version of a Federal Reserve Board report. A summary of this report
   can be found in this section.
-file: /media/courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/3241a7229b55c98872967a53f2f66aa4_private_equity.pdf
+file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/3241a7229b55c98872967a53f2f66aa4_private_equity.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -14,3 +14,5 @@ resourcetype: Document
 title: private_equity.pdf
 uid: 3241a722-9b55-c988-7296-7a53f2f66aa4
 ---
+Full version of a Federal Reserve Board report. A summary of this report can be found in this section.
+
