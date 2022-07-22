@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec17.pdf
 uid: 24a75ab8-239e-a347-2050-ed5f2df74f17
 ---
 Lecture notes. Guests for this lecture were John LeClaire and David Watson, Partners, Goodwin Procter.
-

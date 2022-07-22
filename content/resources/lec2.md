@@ -5,6 +5,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: 80c68026-824a-d472-ae5d-9f71504ec43b
 ---
 Lecture notes.
-

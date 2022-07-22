@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20.pdf
 uid: 686a9228-9bda-6205-fd24-e6af6dd46922
 ---
 Lecture notes. Guest for this lecture was Tim Diggins, Partner, Ropes & Gray.
-

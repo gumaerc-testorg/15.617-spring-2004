@@ -5,6 +5,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: doj.pdf
 uid: 9fd504b0-694e-3658-b8f1-2f92d977ccc5
 ---
 Justice Department report.
-

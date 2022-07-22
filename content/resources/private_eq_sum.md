@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: private_eq_sum.pdf
 uid: 50943c06-6ded-58bf-3bae-91e312897f18
 ---
 Summary of a Federal Reserve Board report. The full version can be found in this section.
-

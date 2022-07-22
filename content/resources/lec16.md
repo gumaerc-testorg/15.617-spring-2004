@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec16.pdf
 uid: a381e1d3-f24d-5ef3-e8ef-a56e64593ab9
 ---
 Lecture notes. Guest for this lecture was Edward Freedman, Corporate Counsel, Flagship Ventures.
-

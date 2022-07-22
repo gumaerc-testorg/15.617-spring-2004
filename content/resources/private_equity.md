@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: private_equity.pdf
 uid: 3241a722-9b55-c988-7296-7a53f2f66aa4
 ---
 Full version of a Federal Reserve Board report. A summary of this report can be found in this section.
-

@@ -6,6 +6,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ex2.pdf
 uid: cd4bd202-210c-56ac-7d1d-f5fc7275987e
 ---
 Exercise questions along with instructions and advice for the completion of the assignment.
-

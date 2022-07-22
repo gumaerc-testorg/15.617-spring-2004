@@ -10,6 +10,7 @@ file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 5ebc27e6-4a6c-2f4b-0593-74edf8071be1
 ---
 This Peanut provides a brief,non-technical introduction to a complex area of the
 law. In the interest of brevity, generalizations are made without the qualifications needed to make them accurate.This Peanut is intended for use as an instructional aid, and does not replace the advice of an attorney.
-
