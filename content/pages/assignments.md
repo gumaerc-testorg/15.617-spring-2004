@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7926d0c0-6b26-86e4-d2db-1838b00d5715
 ---
@@ -33,7 +37,7 @@ ASSIGNMENTS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-First exercise available one day after lecture 13 at noon ([PDF]({{< baseurl >}}/resources/ex1))
+First exercise available one day after lecture 13 at noon ({{% resource_link d5bbca0a-ddd9-baa4-a657-2c824c9d6ee3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ First exercise due two days before lecture 14 at 5 p.m. (two days after it was m
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Second exercise available one day after lecture 21 at noon ([PDF]({{< baseurl >}}/resources/ex2))
+Second exercise available one day after lecture 21 at noon ({{% resource_link cd4bd202-210c-56ac-7d1d-f5fc7275987e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
