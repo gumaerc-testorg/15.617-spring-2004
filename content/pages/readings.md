@@ -206,7 +206,7 @@ Guest: Lisa Wood, Partner, Foley Hoag
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Foley Hoag Securities Law Updates_ (Each article is available at the Web site of [Foley Hoag LLP](http://www.foleyhoag.com/)):
+_Foley Hoag Securities Law Updates_ (Each article is available at the Web site of {{% resource_link "4e403a60-636e-4c3d-b675-f708d2bd3d42" "Foley Hoag LLP" %}}):
 
 "The Sarbanes-Oxley Act of 2002." 1 August 2002.
 
@@ -274,7 +274,7 @@ Guest: Tim Diggins, Partner, Ropes & Gray
 
 {{< tdclose >}}{{< tdopen >}}
 
-Vujovich, Dian. "Hedge Funds." Dian's Fund Freebies, 7 January 2001 Available at  [Dian's Fund Freebies](http://www.diansfundfreebies.com/) .
+Vujovich, Dian. "Hedge Funds." Dian's Fund Freebies, 7 January 2001 Available at  {{% resource_link "809b7b7d-83a8-401f-8adf-53fa575ab29f" "Dian's Fund Freebies" %}} .
 
 Borla, Simone, and Denis Masetti. "Hedge Funds and Alternative Investments in Europe." Chapter 1 in _Hedge Funds._ Wiley, 2003, pp. 1-17. ISBN: 0470850957. (Note: This chapter title is misleading - some later parts of the book focus on Europe, but this introductory chapter is an overview of the hedge fund industry generally.)
 
